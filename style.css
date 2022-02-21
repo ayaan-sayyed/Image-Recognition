@@ -1,0 +1,22 @@
+body {
+color: red;
+background: linear-gradient(orange 25%, yellow 50%)  ;
+
+}
+.heading {
+width: 80%;
+font-size: 22px;
+color: chartreuse;
+}
+
+#camera {
+border: 2px dashed chocolate;
+width: 350px;
+height: 300px;
+}
+
+.name_of_objects, #result_object_name, #result_object_accuracy {
+color: crimson;
+font-weight: bold;
+font-style: italic;
+}
